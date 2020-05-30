@@ -1,43 +1,49 @@
-# _{Application Name}_
+# JS.BookList
 
-#### _{Brief description of application}, {Date of current version}_
+#### _May 2020_
 
 #### By _**Marc Davies**_
 
+![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+# Table of Contents
+
+<!--ts-->
+
+- [Description](#description)
+- [Technologies Used](#technologies-used)
+- [Setup and Installation](#setup-and-installation)
+- [Known Bugs](#known-bugs)
+- [Support And Contact Details](#support-and-contact-details)
+<!--te-->
+
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
-
-## Setup/Installation Requirements
-
-* _Clone from GitHub_
-* _Open index.html_
-* _Alternatively, launch https://marclignarius.github.io/projectname_
-
-## Specs
-
-| Behavior | Input | Output |
-| ------------- |:-------------:| -----:|
-| Lorem | x | true/false |
-| Lorem | x | true/false |
-| Lorem | x | true/false |
-| Lorem | x | true/false |
-| Lorem | x | true/false |
-
-## Known Bugs
-
-_None as of last update_
-
-## Support and contact details
-
-_Please contact me via <a href="https://www.linkedin.com/in/marcdaviesriot/">LinkedIn</a> if you have any questions. Your feedback is always welcomed!_
+Simple To Do style application with data persisted to localStorage.
 
 ## Technologies Used
 
-_HTML, CSS, JS, Bootstrap, jQuery, Atom._
+- _HTML 5_
+- _Materialize CSS_
+- _Javascript_
 
-### License
+## Setup and Installation
 
-*This software is licensed under the GPL license.*
+- Launch your terminal.
+- `cd desktop` Navigate to the desktop.
+- `git clone "https://github.com/MarcLignarius/JS.BookList"` Clone this repository to your desktop.
+- `cd JS.BookList` Open up the cloned repository.
+- `open index.html` to open the application in your browser.
+
+Alternatively, visit https://marclignarius.github.io/JS.BookList/ to see the live version of the application.
+
+## Known Bugs
+
+There are no known bugs as of that last release.
+
+## Support and Contact Details
+
+Please contact me via <a href="https://www.linkedin.com/in/marcdaviesriot/">LinkedIn</a> if you have any questions. Your feedback is always welcomed!
 
 Copyright (c) 2020 **_Marc Davies_**
