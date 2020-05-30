@@ -20,7 +20,7 @@
 
 ## Description
 
-Simple To Do style application with data persisted to localStorage.
+Simple Add/Delete application with data persisted to localStorage.
 
 ## Technologies Used
 
