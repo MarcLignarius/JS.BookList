@@ -72,6 +72,12 @@ document.getElementById('book-form').addEventListener('submit', function (e) {
     // Add book to lists
     ui.addBookToList(book);
 
+    // Show success
+    ui.showAlert(
+      `${book.title} by ${book.author}, ISBN #${book.isbn}, has been added.`,
+      'success'
+    );
+
     // Clear fields
     ui.clearFields();
   }
